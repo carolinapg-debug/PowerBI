@@ -1,0 +1,13 @@
+ID_Producto,Nombre_Producto,Categoria,Laboratorio,Tipo,Costo_Unitario,Precio_Venta
+P001,Acetaminofén 500mg x 100,Analgésicos,MK,Genérico,8500,15000
+P002,Dolex Forte Caja x 12,Analgésicos,GSK,Comercial,12000,16500
+P003,Amoxicilina 500mg x 50,Antibióticos,Genfar,Genérico,15000,28000
+P004,Pedialyte 60 MEq Manzana,Rehidratación,Abbott,Comercial,9500,13500
+P005,Pañales Huggies Etapa 3 x 30,Cuidado Bebé,Kimberly-Clark,Comercial,45000,58000
+P006,Ensure Advance Vainilla 400g,Nutrición,Abbott,Comercial,52000,65000
+P007,Losartán 50mg x 30,Cardiovascular,La Santé,Genérico,4500,12000
+P008,Protector Solar Eucerin 50+,Dermocosmética,Eucerin,Comercial,75000,98000
+P009,Vitamina C x 10 Tabs,Vitaminas,MK,Genérico,3500,6000
+P010,Crema No. 4 Original 60g,Cuidado Bebé,Sanfer,Comercial,11000,15000
+P011,Buscapina Compositum x 10,Espasmolíticos,Sanofi,Comercial,14000,18500
+P012,Loratadina 10mg x 10,Antihistamínicos,American Generics,Genérico,2500,8000

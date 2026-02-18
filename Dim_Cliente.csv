@@ -1,0 +1,11 @@
+ID_Cliente,Nombre_Cliente,Tipo_Cliente,Ciudad,Convenio
+C001,Cliente Mostrador General,Ocasional,Cali,Ninguno
+C002,Maria Elena Restrepo,Crónico (Hipertensión),Palmira,Sura
+C003,Jorge Iván Zuleta,Crónico (Diabetes),Tuluá,Coomeva
+C004,Fondo de Empleados Colombina,Corporativo,Tuluá,Empresarial
+C005,Pedro Pablo Jaramillo,Ocasional,Buga,Ninguno
+C006,Residencial Adulto Mayor El Ocaso,Institucional,Cali,Empresarial
+C007,Ana Lucía Martínez,Fidelizado,Jamundí,Puntos Vida
+C008,Cliente Domicilio App,Digital,Cali,Ninguno
+C009,Carlos Andrés Vélez,Crónico (Renal),Cali,Sura
+C010,Droguería Satélite (Compra al por mayor),Mayorista,Yumbo,Ninguno
